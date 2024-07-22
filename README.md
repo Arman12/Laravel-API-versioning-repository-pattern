@@ -32,7 +32,7 @@ Database  MYSQL
 ## Installation
 Go to CLI and run below commands:  
 ```bash
-Place your git repo here
+git clone https://github.com/Arman12/Laravel-API-versioning-repository-pattern.git
 cd Laravel-API-versioning-repository-pattern
 ```
 open .env file (available) at root directory and check (or update) database details.
